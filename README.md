@@ -40,7 +40,7 @@ streamlit run app.py
 
 \## 📸 Results
 
-
+This project demonstrates real-world performance including both correct predictions and limitations of the model.
 
 \### ✅ Correct Prediction
 
