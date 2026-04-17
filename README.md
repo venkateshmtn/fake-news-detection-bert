@@ -48,7 +48,8 @@ The model correctly identifies factual news content.
 
 
 
-!\[Correct Prediction](screenshots/correct.png)
+!\[Correct Prediction](<img width="1920" height="1080" alt="Correct Real News Detection" src="https://github.com/user-attachments/assets/02872afa-746b-405f-824b-58b2db886694" />
+)
 
 
 
@@ -62,7 +63,8 @@ The model may misclassify neutral or formal news due to limited training data an
 
 
 
-!\[Wrong Prediction](screenshots/wrong.png)
+!\[Wrong Prediction](<img width="1920" height="1080" alt="Wrong Real news Detection" src="https://github.com/user-attachments/assets/5320a003-1d8f-4eea-ae13-06c80df85e41" />
+)
 
 
 
