@@ -32,9 +32,37 @@ This project uses a BERT-based deep learning model to classify news articles as 
 
 \## ▶️ Run
 
-pip install -r requirements.txt  
+pip install -r requirements.txt
 
 streamlit run app.py
+
+
+
+\## 📸 Results
+
+
+
+\### ✅ Correct Prediction
+
+The model correctly identifies factual news content.
+
+
+
+!\[Correct Prediction](screenshots/correct.png)
+
+
+
+\---
+
+
+
+\### ⚠️ Limitation (Misclassification Example)
+
+The model may misclassify neutral or formal news due to limited training data and context understanding.
+
+
+
+!\[Wrong Prediction](screenshots/wrong.png)
 
 
 
