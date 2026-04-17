@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+venv/
+.env
+
+# Model files (IMPORTANT)
+models/
+*.pt
+*.bin
+*.safetensors
+
+# OS files
+.DS_Store
+Thumbs.db
